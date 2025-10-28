@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ecociclo',
         'USER': 'root',
-        'PASSWORD': 'Jefrith2001*',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '3306',
         }
